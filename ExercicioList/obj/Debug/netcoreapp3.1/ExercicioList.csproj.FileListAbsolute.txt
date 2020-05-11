@@ -1,0 +1,12 @@
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.exe
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.deps.json
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.runtimeconfig.json
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.runtimeconfig.dev.json
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.dll
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.pdb
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.csproj.CoreCompileInputs.cache
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.AssemblyInfoInputs.cache
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.AssemblyInfo.cs
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.dll
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.pdb
+D:\Files\Curso Csharp\Array\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.genruntimeconfig.cache
